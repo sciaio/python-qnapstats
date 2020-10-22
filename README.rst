@@ -75,6 +75,9 @@ This library has been tested against the following devices and firmwares:
 +------------+-----------------------+---------------------------------------+
 | TS-659     | 4.2.6                 | May report `None` for some disk temps |
 +------------+-----------------------+---------------------------------------+
+| TS-251+    | 4.5.1                 |                                       |
++------------+-----------------------+---------------------------------------+
+
 
 Other QNAP devices using these firmwares should probably work fine, as should the devices listed above on newer firmwares.
 If you encounter any compatibility issues, please let us know (or better yet, contribute a patch!)
